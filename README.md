@@ -1,1 +1,1 @@
-# taboada_completa
+# Gerador de Taboada completa desenvolvido em Portugol
